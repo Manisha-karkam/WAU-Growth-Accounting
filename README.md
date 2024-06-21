@@ -13,7 +13,7 @@ Here,
 
 
 
-**Analysis:**
+**Analysis (Insights):**
 
 The above generated Chart of Weakly Active Users(WAU) data represents "User Growth Accounting for a Company" similar to Monthly Active Users(MAU) as mentioned in article. It also gives the insights like the MAU Growth Accounting.
 
